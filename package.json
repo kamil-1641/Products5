@@ -1,5 +1,5 @@
 {
-  "name": "Fibonacci_Generator",
-  "description": "Generate fibonacci numbers with little overhead for easy and high precision golden ratio.",
-  "version": "4.5.1"
+  "name": "Simple_Clock_Display",
+  "description": "Show time on your website in any of a number of formats, including unix epoch time, ISO and EDT.",
+  "version": "5.5.1"
 }
