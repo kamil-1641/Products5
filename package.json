@@ -1,0 +1,5 @@
+{
+  "name": "Orbital Mechanics Library",
+  "description": "Set of javascript functions and classes for simulating the movement of satelites and astronomical bodies.",
+  "version": "1.5.1"
+}
